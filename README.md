@@ -9,6 +9,11 @@ NOSTR 8-bit icon art
 ## Nostr Icons
 
 <span>
+  <img src="https://github.com/emuro2/nostr-8bit-icons/blob/main/nostr_purple_gradient_square.png" style="width:150px;height:auto;" />
+  <img src="https://github.com/emuro2/nostr-8bit-icons/blob/main/nostr_purple_blk_circle.png" style="width:150px;height:auto;" />
+  <img src="https://github.com/emuro2/nostr-8bit-icons/blob/main/nostr_purple_wht_circle.png" style="width:150px;height:auto;" />
+  <img src="https://github.com/emuro2/nostr-8bit-icons/blob/main/nostr_purple_blk_square.png" style="width:150px;height:auto;" />
+  <img src="https://github.com/emuro2/nostr-8bit-icons/blob/main/nostr_purple_wht_square.png" style="width:150px;height:auto;" />
   <img src="https://github.com/emuro2/nostr-8bit-icons/blob/main/nostr_purple.png" style="width:150px;height:auto;" />
   <img src="https://github.com/emuro2/nostr-8bit-icons/blob/main/nostr_orange.png" style="width:150px;height:auto;" />
   <img src="https://github.com/emuro2/nostr-8bit-icons/blob/main/nostr_black.png" style="width:150px;height:auto;" />
